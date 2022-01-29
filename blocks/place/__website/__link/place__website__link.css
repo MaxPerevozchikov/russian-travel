@@ -1,0 +1,14 @@
+.place__website__link {
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 22px;
+    text-decoration-line: underline;
+    color: white;
+    opacity: 1;
+}
+
+.place__website__link {
+  transition: all .8 ease;
+}
