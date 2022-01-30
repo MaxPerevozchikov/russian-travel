@@ -4,7 +4,7 @@
 
    Типовой одностраничный адаптивный сайт, за основу которого взят макет, разработанный посредством Figma. Оптимизация сайта позволяет осуществлять просмотр на экранах различных устройств, начиная от 320px.
 
-[Проектная работа на GitHub Pages](https://github.com/MaxPerevozchikov/russian-travel.git)
+[Проектная работа на GitHub Pages](https://maxperevozchikov.github.io/russian-travel/)
 
 ## Реализован с помощью:
 
@@ -19,4 +19,4 @@
 
 ## Cсылка на сайт: 
 
-https://github.com/MaxPerevozchikov/russian-travel.git
+https://maxperevozchikov.github.io/russian-travel/
