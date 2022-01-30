@@ -6,9 +6,8 @@
     line-height: 22px;
     text-decoration-line: underline;
     color: white;
-    opacity: 1;
 }
 
-.place__website__link {
-  transition: all .8 ease;
+.place__website__link:hover {
+  opacity: .7;
 }

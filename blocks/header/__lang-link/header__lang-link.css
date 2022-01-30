@@ -5,8 +5,13 @@
   font-size: 24px;
   font-weight: normal;
   font-style: normal;
+  color: white;
 }
 
 .header__lang-link:last-child {
   margin-left: 18px;
+}
+
+.header__lang-link:hover {
+  opacity: .7;
 }

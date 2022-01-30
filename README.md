@@ -19,4 +19,4 @@
 
 ## Cсылка на сайт: 
 
-https://github.
+https://github.com/MaxPerevozchikov/russian-travel.git
