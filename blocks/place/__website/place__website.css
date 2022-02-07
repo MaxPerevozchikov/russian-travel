@@ -1,4 +1,10 @@
 .place__website {
-align-self: end;
-justify-self: start;
+  align-self: end;
+  justify-self: start;
+}
+
+@media screen and (max-width: 320px) {
+  .place__website {
+    margin: 0 16px;    
+  }  
 }
